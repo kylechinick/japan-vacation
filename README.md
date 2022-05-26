@@ -1,6 +1,6 @@
 # japan vacation
 
-![image](/img/japan-vacation.png)
+![image](/img/japan-vacation-2.png)
 
 _Author: PJ Perry and Kyle Chinick_
 
@@ -12,6 +12,7 @@ Dream vacation website
 
 - HTML
 - CSS
+- Bootstrap
 
 ## Description:
 
