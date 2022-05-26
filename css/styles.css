@@ -1,0 +1,24 @@
+/* * {
+  border: 1px solid red;
+} */
+
+.package {
+  background-color: cadetblue;
+  padding: 16px;
+  border: 2px solid whitesmoke;
+  border-radius: 10px 12px 6px 2px;
+}
+
+.price {
+  font-weight: 900;
+}
+
+.date {
+  font-family: fantasy;
+}
+
+.description {
+  background-color: whitesmoke;
+  padding: 8px;
+  border-radius: 10px;
+}
